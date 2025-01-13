@@ -1,1 +1,1 @@
-# e-commerce
+npm create vite@latest
